@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
+import { SectionWrapper } from "../hoc";
 
 import { styles } from "../styles";
-import { Birds, ComputersCanvas } from "./canvas";
+import { Birds} from "./canvas";
 
 const Hero = () => {
   return (
@@ -48,4 +49,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default SectionWrapper(Hero,'home');

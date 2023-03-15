@@ -1,13 +1,14 @@
 import { motion } from "framer-motion";
 import {useState, useRef} from 'react';
 import{slideIn} from '../utils/motion';
+import { SectionWrapper } from "../hoc";
 
 
 
 import { styles } from "../styles";
 import { Solar_system, EarthCanvas} from "./canvas";
 
-const Hero = () => {
+const Tech = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
       <div
@@ -43,4 +44,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default SectionWrapper (Tech,'Projects');
