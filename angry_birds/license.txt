@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red, Bomb and Chuck - Angry Birds
+* source:	https://sketchfab.com/3d-models/red-bomb-and-chuck-angry-birds-1e9418e3959e48a1aa1005d1a704f5bd
+* author:	megajakerake (https://sketchfab.com/jacobq1004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red, Bomb and Chuck - Angry Birds" (https://sketchfab.com/3d-models/red-bomb-and-chuck-angry-birds-1e9418e3959e48a1aa1005d1a704f5bd) by megajakerake (https://sketchfab.com/jacobq1004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
