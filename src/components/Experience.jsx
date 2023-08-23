@@ -28,12 +28,7 @@ const Experience = () => {
             <br></br>
             React (<span className='text-[#FF0000]'>4 week</span>)
             <br></br>
-            MySQL (<span className='text-[#FF0000]'>6 month</span>)
-            <br></br>
-            MongoDB (<span className='text-[#FF0000]'>2week</span>)
-            <br></br>
-            Json (<span className='text-[#FF0000]'>3 months</span>)
-            
+         
           </p>
         </div>
       </div>
