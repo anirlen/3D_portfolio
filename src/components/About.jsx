@@ -19,7 +19,7 @@ const About = () => {
             My full name is <span className='text-[#FF0000]'>Erdembileg Erdenebileg</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am <span className= 'text-[#FF0000]'>Junior </span>, Undergad Student at Indiana University 
+            I am <span className= 'text-[#FF0000]'>Senior </span>, Undergad Student at Indiana University 
             <br className='sm:block hidden' />
             <br></br>
             I have been coding since <span className= 'text-[#FF0000]'>January,2022 </span>
