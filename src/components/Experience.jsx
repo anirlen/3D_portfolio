@@ -20,13 +20,19 @@ const Experience = () => {
           <span className='text-[#FF0000]'>Experience</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Python (<span className='text-[#FF0000]'>1 year</span>)
+            Python (<span className='text-[#FF0000]'>2 year</span>)
             <br></br>
-            Html & css (<span className='text-[#FF0000]'>1 year</span>)
+            Html & css (<span className='text-[#FF0000]'>2 year</span>)
             <br></br>
-            Javascript (<span className='text-[#FF0000]'>2 month</span>)
+            Javascript (<span className='text-[#FF0000]'>5 month</span>)
             <br></br>
-            React (<span className='text-[#FF0000]'>1 week</span>)
+            React (<span className='text-[#FF0000]'>4 week</span>)
+            <br></br>
+            MySQL (<span className='text-[#FF0000]'>6 month</span>)
+            <br></br>
+            MongoDB (<span className='text-[#FF0000]'>2week</span>)
+            <br></br>
+            Json (<span className='text-[#FF0000]'>3 months</span>)
             
           </p>
         </div>
